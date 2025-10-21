@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    top:0px;
+    width: 100%;
+}
+Image{
+    width: 20px;
+}
+.navbar-left .link{
+    color: white;
+    margin: 0px 10px;
+}
+.navbar-right .link{
+     color: white;
+    margin: 0px 10px;
+}
